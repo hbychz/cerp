@@ -12,7 +12,7 @@ dataSource:
     driverClassName: org.postgresql.Driver
     dialect: org.hibernate.dialect.PostgreSQLDialect
     username: role_cerp
-    password: thermalpowercerp
+    password: sa
 
 environments:
     development:
